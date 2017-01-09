@@ -1,0 +1,28 @@
+{
+  "name": "animatescroll",
+  "description": "A Simple jQuery Plugin for Animating Scroll with more than 30 unique easing effects",
+  "license": [
+    "MIT"
+  ],
+  "homepage": "http://plugins.compzets.com/animatescroll",
+  "authors": [
+    "Ram Swaroop <ramswarooppatra@gmail.com>"
+  ],
+  "main": [
+    "animatescroll.js",
+    "animatescroll.noeasing.js"    
+  ],
+  "keywords": [
+        "animatescroll",        
+        "scrollanimate",
+        "scroll",
+        "animation",
+        "scrollto"
+  ],
+  "dependencies": [
+    "jquery": ">=1.5"
+   ],
+  "ignore": [
+    "**/.*"
+  ]
+}
