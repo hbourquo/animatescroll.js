@@ -19,9 +19,9 @@
         "animation",
         "scrollto"
   ],
-  "dependencies": [
+  "dependencies": {
     "jquery": ">=1.5"
-   ],
+  },
   "ignore": [
     "**/.*"
   ]
